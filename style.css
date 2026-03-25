@@ -1002,3 +1002,19 @@ html {
     background: #6366f1;
     color: white;
 }
+
+.github-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    border-radius: 10px;
+    border: 1px solid #1e293b;
+    color: #e2e8f0;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.github-btn:hover {
+    border-color: #6366f1;
+    color: #6366f1;
+}
